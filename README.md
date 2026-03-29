@@ -1,4 +1,6 @@
-Student Performance Predictor
+STUDENT PERFORMANCE PREDICTOR
+ 
+Live App: https://student-performance-predictor-tcg4zxjwstftaelid7n2gi.streamlit.app/
 
  Overview
 
